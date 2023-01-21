@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.backImage{
+    background-image: url(home.jpg.jpg);
+    background-attachment: fixed;
+}
+.bgcolor{
+    background-color: aquamarine;
+}
+.btn{
+    color:solid black;
+    background-color: rgb(130, 153, 219);
+    padding: 10px;
+}
+.searchArea
+{
+    padding: 15px;
+}
+.heading{
+    text-align: center;
+    text-shadow: yellow;
+}
+.text{
+    color:black;
+}

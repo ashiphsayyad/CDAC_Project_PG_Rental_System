@@ -1,0 +1,24 @@
+.container
+{
+    background-size: 2200px 1000px;
+    background-color:lightgray;
+    
+    font-weight: 800;
+    
+}
+
+
+
+.RegForm
+{
+    
+    border-style: solid ;
+    backface-visibility: visible;
+    color-adjust:inherit ;
+  
+    font-size:xx-large;
+  
+    
+    
+    
+}
